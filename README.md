@@ -11,6 +11,6 @@ I promise to **code every day** for the next **one year**, starting from **Febru
 ## My Rules  
 1. Write some code every day (even a little counts!)  
 2. Track my progress
-3. 
+3. keep my head down and just code every day
 ### **Consistency pays off!** 💯💪  
 
